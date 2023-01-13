@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "source": "pages/Home/index"
+    },
+    {
+      "path": "/rss-column",
+      "source": "pages/RssColumn/index"
+    }
+  ],
+  "window": {
+    "title": "Rax App"
+  }
+}
